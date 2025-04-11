@@ -1,0 +1,68 @@
+
+lvl 0:
+
+ssh -p 2220 bandit0@bandit.labs.overthewire.org
+pass: bandit0
+
+lvl 1:
+
+ssh -p 2220 bandit1@bandit.labs.overthewire.org
+pass: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+
+
+lvl2:
+
+cat ./-
+pass: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
+lvl3:
+
+pass: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+
+lvl4:
+
+pass: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+
+lvl5:
+
+pass: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+
+lvl6:
+
+pass: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+
+lvl7:
+
+pass: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+
+lvl8:
+
+pass: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+
+lvl9:
+
+pass: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+
+lvl10:
+
+pass: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+
+lvl11:
+
+pass: dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
+
+lvl 12:
+
+pass: 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
+
+lvl13:
+
+pass: FO5dwFsc0cbaIiH0h8J2eUks2vdTDwAn
+
+lvl14:
+
+pass: MU4VWeTyJk8ROof1qqmcBPaLh7lDCPvS
+
+lvl15:
+
+pass: 8xCjnmgoKbGLhHFAZlGE5Tmu4M2tKJQo
